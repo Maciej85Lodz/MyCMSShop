@@ -10,6 +10,8 @@ An application combining a content management system (CMS) with the shop functio
 - Routes 
 ### PayPal
 - Payment functionality
+### Admin -lte
+- Admin dashboard function
 ### Bootstrap
 ### GIT
 #### CKEditor
