@@ -1,16 +1,15 @@
 # MyCMSShop
-Projekt ten to połączenie funkcjonalności CMS – systemu do zarządzania treścią oraz sklepu internetowego.
+An application combining a content management system (CMS) with the shop function.  Created for the purpose of completing the course for studies.
 
-
-## W projekcie zostały wykorzystane technologie:
+## The following technologies have been used in the project:
 
 ### ASP.NET MVC – Entity Framework – LocalDB
-– Rejestracja, logowanie, role 
-– Widoki, widoki częściowe 
+- Registration, login, roles 
+- Views, partial views
 ### Ajax
 - Routes 
 ### PayPal
-- Fukncjonalność Płatnicza
+- Payment functionality
 ### Bootstrap
 ### GIT
 #### CKEditor
