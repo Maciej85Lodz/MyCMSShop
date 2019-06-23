@@ -2,7 +2,7 @@
 Projekt ten to połączenie funkcjonalności CMS – systemu do zarządzania treścią oraz sklepu internetowego.
 
 
-## W projekcie zostaną wykorzystane technologie:
+## W projekcie zostały wykorzystane technologie:
 
 ### ASP.NET MVC – Entity Framework – LocalDB
 – Rejestracja, logowanie, role 
@@ -10,6 +10,7 @@ Projekt ten to połączenie funkcjonalności CMS – systemu do zarządzania tre
 ### Ajax
 - Routes 
 ### PayPal
+- Fukncjonalność Płatnicza
 ### Bootstrap
 ### GIT
 #### CKEditor
